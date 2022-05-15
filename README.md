@@ -1,4 +1,4 @@
-                                               Flutter App Development Guideline By Hamid
+                                               Flutter App Development Guideline By Subrata
 
 <table align="center"  style="margin: 0px auto;">
         <tr>
